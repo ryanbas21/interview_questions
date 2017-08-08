@@ -1,40 +1,73 @@
-What are the pros and cons to a microservice architecture?
 
+Walk me through the process that occurs when I type a url into the search bar and hit enter.
 You have an excel file you are parsing in node that is 3000 lines and a method that you have to run on every line. The method can not be optimized any further. It runs synchronously. How can you optimize this?
-
-There is a button on the page, when you click it the page is non-responsive and the pinwheel starts spinning, how do you go about debugging this
-
+When would you (a) not put CSS <link> between <head></head>,  and (b) JavaScript <script></script> just before </body>?
 When you type google.com into the browser what happens, go into as much detail as possible
+How do you go about optimizing a webpage?
 
-Whats the difference between a relational db like sql and non-relational db like mongo  
-What is the css box model  
-What is a closure and how does it relate to side effects  
-What is prototypal inheritance vs classical inheritance  
-Explain scope in javascript  
-What's the difference between a function expression and function declaration  
-How do you keep up with the latest tech  
-What is REST  
-What is the event loop  
-How do you go about optimizing a webpage?  
-What are unit tests  
-Whats the difference between unit tests and continuous integration tests  
-Would you ever want to index a database ? (something along those lines )  
-What is the difference between $rootscope and $scope in Angular?  
-What are promises?  
-Socket vs http requests  
-Do you have any preferred JavaScript libraries or frameworks (don’t list more than three). For one of the  libraries/frameworks, please briefly state how you used it to solve a problem.  
+### CSS
+* What is the css box model
+* Explain the stacking context?
+
+### System Architecture Questions
+* What are the pros and cons to a microservice architecture?
+* Explain how you would go about creating a url shortening service like bit.ly.
+
+### Debugging
+* There is a button on the page, when you click it the page is non-responsive and the pinwheel starts spinning, how do you go about debugging this
+
+### Database
+* Whats the difference between a relational db like sql and non-relational db like mongo
+* Would you ever want to index a database ? (something along those lines )
+
+### Javascript Fundamentals
+* What is a closure and how does it relate to side effects
+* What is prototypal inheritance vs classical inheritance
+* Explain scope in javascript
+* What's the difference between a function expression and function declaration
+* What is the event loop
+* What are promises?
+* When would you consider using JavaScript prototypes?
+
+### Node Related
+* What is REST
+* Socket vs http requests
+
+### Soft Skills
+* How do you keep up with the latest tech
+* Do you have any preferred JavaScript libraries or frameworks (don’t list more than three). For one of the  libraries/frameworks, please briefly state how you used it to solve a problem.
+
+### Testing
+* What are unit tests
+* Whats the difference between unit tests and continuous integration tests
 
 
-When would you consider using JavaScript prototypes?  
+### Angular
+* What is the difference between $rootscope and $scope in Angular?
+
+
+### Programming Paradigms
+* Please describe functional programming in JavaScript and when you might consider using it?
+
+
+### Computer Science
+* Explain what a stack is and what it is used for.
+* Merge Sort
+* Depth First Traversal of BST
+* Given a LinkedList with four nodes, how would you remove the third node? How would you remove the head node?
+
+### Javascript Quirks
+* What is the output of the following expressions?
+
+    * True == 1
+    * False === 0
+    * 1 + ‘1’
+    * 1 + 1 + ‘1’ + ‘1’
+    * True + 1
+    * False - 1
 
 
 Using code, please demonstrate an asynchronous call in JavaScript?
-
-
-When would you (a) not put CSS <link> between <head></head>,  and (b) JavaScript <script></script> just before </body>?
-
-
-Please describe functional programming in JavaScript and when you might consider using it?
 
 
 In ES2015 (aka ES6) we have Modules. What options do you have if you wanted similar functionality in ES5.
@@ -47,25 +80,6 @@ $("#btnForms").addClass("active").attr("data-dirty", true);
 $("#btnPolicy").removeClass("active").attr("data-dirty", false);
 
 
-
-
-
-Walk me through the process that occurs when I type a url into the search bar and hit enter.
-
-Explain how you would go about creating a url shortening service like bit.ly.
-
-What is the output of the following expressions?
-
-True == 1
-False === 0
-1 + ‘1’
-1 + 1 + ‘1’ + ‘1’
-True + 1
-False - 1
-
-Explain what a stack is and what it is used for.
-
-Given a LinkedList with four nodes, how would you remove the third node? How would you remove the head node?
 
 Write a function that takes in an input array [1, 2, 3, 4, 5] and returns an output array [1, 2, 3, 4, 5, 5, 4, 3, 2, 1]. What is the big O notation of your solution?
 
@@ -146,8 +160,5 @@ Using only css (and not css3 aka no flexbox) create a horizontally and verticall
 
 
 
-Merge Sort
-
-Depth First Traversal of BST
 How would you go about debugging a program that crashes at different lines of code each time it’s run.
 
