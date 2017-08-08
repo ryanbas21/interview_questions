@@ -6,26 +6,26 @@ There is a button on the page, when you click it the page is non-responsive and 
 
 When you type google.com into the browser what happens, go into as much detail as possible
 
-Whats the difference between a relational db like sql and non-relational db like mongo
-What is the css box model
-What is a closure and how does it relate to side effects
-What is prototypal inheritance vs classical inheritance
-Explain scope in javascript
-What's the difference between a function expression and function declaration
-How do you keep up with the latest tech
-What is REST
-What is the event loop
-How do you go about optimizing a webpage?
-What are unit tests
-Whats the difference between unit tests and continuous integration tests
-Would you ever want to index a database ? (something along those lines )
-What is the difference between $rootscope and $scope in Angular?
-What are promises?
-Socket vs http requests
-Do you have any preferred JavaScript libraries or frameworks (don’t list more than three). For one of the libraries/frameworks, please briefly state how you used it to solve a problem.
+Whats the difference between a relational db like sql and non-relational db like mongo  
+What is the css box model  
+What is a closure and how does it relate to side effects  
+What is prototypal inheritance vs classical inheritance  
+Explain scope in javascript  
+What's the difference between a function expression and function declaration  
+How do you keep up with the latest tech  
+What is REST  
+What is the event loop  
+How do you go about optimizing a webpage?  
+What are unit tests  
+Whats the difference between unit tests and continuous integration tests  
+Would you ever want to index a database ? (something along those lines )  
+What is the difference between $rootscope and $scope in Angular?  
+What are promises?  
+Socket vs http requests  
+Do you have any preferred JavaScript libraries or frameworks (don’t list more than three). For one of the  libraries/frameworks, please briefly state how you used it to solve a problem.  
 
 
-When would you consider using JavaScript prototypes?
+When would you consider using JavaScript prototypes?  
 
 
 Using code, please demonstrate an asynchronous call in JavaScript?
